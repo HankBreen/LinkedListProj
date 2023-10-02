@@ -1,7 +1,6 @@
 
 /**
- * Address class for use in CSE 274 Homework on LinkedLists
- * @author Dr. Johnson
+ * 
  * September 8 ,2022
  *
  */
@@ -24,9 +23,7 @@ public class Address implements Comparable<Address>
      * Default Constructor
      */
     public Address()
-    {
-        // do nothing - all variables equal null until set methods called.
-    }
+    {}
 
     /**
      * @param firstName

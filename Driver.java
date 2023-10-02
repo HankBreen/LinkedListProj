@@ -5,7 +5,6 @@ import java.io.File;
 import java.io.FileNotFoundException;
 
 /**
- * Driver class for the CSE 274 HW 2 on linked lists.
  * Takes a file containing addresses and creates address objects,
  * then puts them into a single linked list and uses merge sort 
  * to sort them, then outputs the sorted list to the console.

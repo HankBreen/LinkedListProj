@@ -2,7 +2,7 @@ import java.util.NoSuchElementException;
 
 /**
  * Singly Linked list class containing an implementation of
- * merge sort modified from code found at geeksforgeeks.org.
+ * merge sort 
  * @author hankbreen
  *
  * @param <E> 
